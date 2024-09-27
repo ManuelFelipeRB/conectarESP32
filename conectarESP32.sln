@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conectarESP32", "conectarESP32.csproj", "{921D08B1-FDE7-4128-BBCB-8890F4EB1F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921D08B1-FDE7-4128-BBCB-8890F4EB1F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921D08B1-FDE7-4128-BBCB-8890F4EB1F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921D08B1-FDE7-4128-BBCB-8890F4EB1F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921D08B1-FDE7-4128-BBCB-8890F4EB1F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E9A79F-D2A3-4CEC-8517-5550B7E4FAA5}
+	EndGlobalSection
+EndGlobal
